@@ -1,0 +1,80 @@
+default.fore: #93a1a1
+default.back: 
+default.bold: 
+default.italic: 
+default.eolfilled: 
+commentline.fore: #6272a4
+commentline.back: 
+commentline.bold: 
+commentline.italic: 
+commentline.eolfilled: 
+number.fore: #bd93f9
+number.back: 
+number.bold: 
+number.italic: 
+number.eolfilled: 
+string.fore: #f1fa8c
+string.back: 
+string.bold: 
+string.italic: 
+string.eolfilled: 
+character.fore: #f1fa8c
+character.back: 
+character.bold: 
+character.italic: 
+character.eolfilled: 
+word.fore: #ff79c6
+word.back: 
+word.bold: 1
+word.italic: 
+word.eolfilled: 
+triple.fore: #bd93f9
+triple.back: 
+triple.bold: 1
+triple.italic: 
+triple.eolfilled: 
+tripledouble.fore: #bd93f9
+tripledouble.back: 
+tripledouble.bold: 1
+tripledouble.italic: 
+tripledouble.eolfilled: 
+classname.fore: #8be9fd
+classname.back: 
+classname.bold: 1
+classname.italic: 
+classname.eolfilled: 
+defname.fore: #50fa7b
+defname.back: 
+defname.bold: 1
+defname.italic: 
+defname.eolfilled: 
+operator.fore: #f8f8f2
+operator.back: 
+operator.bold: 
+operator.italic: 
+operator.eolfilled: 
+identifier.fore: #f8f8f2
+identifier.back: 
+identifier.bold: 
+identifier.italic: 
+identifier.eolfilled: 
+commentblock.fore: #93a1a1
+commentblock.back: 
+commentblock.bold: 
+commentblock.italic: 
+commentblock.eolfilled: 
+stringeol.fore: #93a1a1
+stringeol.back: #ff79c6
+stringeol.bold: 
+stringeol.italic: 
+stringeol.eolfilled: 1
+word2.fore: #8be9fd
+word2.back: 
+word2.bold: 
+word2.italic: 
+word2.eolfilled: 
+decorator.fore: #8be9fd
+decorator.back: 
+decorator.bold: 1
+decorator.italic: 1
+decorator.eolfilled: 
