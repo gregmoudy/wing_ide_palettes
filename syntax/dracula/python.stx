@@ -63,7 +63,7 @@ commentblock.back:
 commentblock.bold: 
 commentblock.italic: 
 commentblock.eolfilled: 
-stringeol.fore: #93a1a1
+stringeol.fore: #f8f8f2
 stringeol.back: #ff79c6
 stringeol.bold: 
 stringeol.italic: 
